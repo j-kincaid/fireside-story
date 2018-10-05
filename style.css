@@ -1,7 +1,8 @@
 body {
   color: white;
   background-color: #333;
-  font-size: 150%;
+  background-image: linear-gradient(black, silver);
   font-family: 'Sacramento', cursive;
+  font-size: 150%;
   margin: 5em 25%;
 }
